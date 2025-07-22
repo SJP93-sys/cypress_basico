@@ -1,0 +1,24 @@
+{
+  "name": "cypress_basico",
+  "version": "1.0.0",
+  "description": "cypress_bs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SJP93-sys/cypress_basico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SJP93-sys/cypress_basico/issues"
+  },
+  "homepage": "https://github.com/SJP93-sys/cypress_basico#readme",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
+}
